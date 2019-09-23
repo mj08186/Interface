@@ -1,7 +1,13 @@
 
 public abstract class Vehicle {
-
+	
 		public String toString() {
-			return "my vehicle.";
+			System.out.println("my vehicle.");
+			return null;
+		}
+		
+		public String whatAmI() {
+			
+			return null;
 		}
 }
